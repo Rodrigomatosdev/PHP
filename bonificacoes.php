@@ -28,7 +28,7 @@ $umDiretor = new Diretor(
     '5000'
 );
 
-$umEditor = new Editor(
+$umEditor = new EditorVideo(
     'Joao Matos',
     new CPF('123.456.789-13'),
     '1500'
